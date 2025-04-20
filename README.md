@@ -30,7 +30,6 @@ This project is for learning and non-commercial purposes only.
 - Browse trending movies and TV shows
 - Smooth transitions and animations
 - Responsive design for mobile and desktop
-- Dark mode enabled by DaisyUI
 - Real-time data from external APIs
 
 
