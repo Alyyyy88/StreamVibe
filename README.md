@@ -11,7 +11,7 @@ A modern and responsive film streaming website inspired by Netflix. Built with R
 ## 🖌️ Figma Design
 
 Design adapted from the [Figma Community](https://www.figma.com/community/file/1294589591426976269)
-[Designer Profile] (https://www.figma.com/@praha)
+[Designer Profile](https://www.figma.com/@praha)
 **Copyright belongs to the original designer.**  
 This project is for learning and non-commercial purposes only.
 
