@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SmartPhones",
+    "image": "../src/assets/stream/phone.png"
+  },
+  {
+    "name": "Tablet",
+    "image": "../src/assets/stream/Tablet.png"
+  },
+  {
+    "name": "SmartTv",
+    "image": "../src/assets/stream/tv.png"
+  },
+  {
+    "name": "Laptops",
+    "image": "../src/assets/stream/laptop.png"
+  },
+  {
+    "name": "GamingConsoles",
+    "image": "../src/assets/stream/console.png"
+  },
+  {
+    "name": "VR Headsets",
+    "image": "../src/assets/stream/vr.png"
+  }
+]
