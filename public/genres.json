@@ -1,22 +1,22 @@
 [
   {
     "name": "Action",
-    "image": "../src/assets/genres/Container-4.png"
+    "image": "/assets/genres/Container-4.png"
   },
   {
     "name": "Adventure",
-    "image": "../src/assets/genres/Container.png"
+    "image": "/assets/genres/Container.png"
   },
   {
     "name": "Comedy",
-    "image": "../src/assets/genres/Container-1.png"
+    "image": "/assets/genres/Container-1.png"
   },
   {
     "name": "Drama",
-    "image": "../src/assets/genres/Container-2.png"
+    "image": "/assets/genres/Container-2.png"
   },
   {
     "name": "Horror",
-    "image": "../src/assets/genres/Container-3.png"
+    "image": "/assets/genres/Container-3.png"
   }
 ]
