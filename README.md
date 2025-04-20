@@ -2,7 +2,7 @@
 
 A modern and responsive film streaming website inspired by Netflix. Built with React, Tailwind CSS, and powered by external APIs for movie data — Stream Vibe delivers a sleek and animated user experience.
 
-![Stream Vibe Banner]()
+![Stream Vibe Banner](/public/assets/Screenshot%202025-04-21%20010049.png)
 
 ## 🚀 Live Demo
 
@@ -10,7 +10,7 @@ A modern and responsive film streaming website inspired by Netflix. Built with R
 
 ## 🖌️ Figma Design
 
-Design adapted from the [Figma Community]([https://www.figma.com/community/file/YOUR-FIGMA-LINK](https://www.figma.com/community/file/1294589591426976269))  
+Design adapted from the [Figma Community](https://www.figma.com/community/file/1294589591426976269)
 **Copyright belongs to the original designer.**  
 This project is for learning and non-commercial purposes only.
 
