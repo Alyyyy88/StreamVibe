@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import arrow from '../assets/genres/arrow.png'
+import arrow from '../assets/arrow.png'
 
 const Genres = () => {
 
